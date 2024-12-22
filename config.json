@@ -1,0 +1,15 @@
+{
+  "token_hmac_secret_key": "fddf4a43-33c1-4227-acfc-52ff24737ada",
+  "api_key": "eea503e1-8b70-4df4-a1b1-73dea1d87ced",
+  "log_level": "debug",
+  "allowed_origins": [
+    "*"
+  ],
+  "admin": true,
+  "admin_password": "password",
+  "admin_secret": "my_admin_secret",
+  "allow_subscribe_for_client": true,
+  "allow_publish_for_client": true,
+  "allow_history_for_client": true,
+  "history_ttl": "1h"
+}
